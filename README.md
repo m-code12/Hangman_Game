@@ -6,7 +6,7 @@ We have used basic file operations such as open, read etc. to use the
 words in our program.
 
 # REMEMBER:
-The category of words in this game is CONCEPTS IN PYTHON.
+>The category of words in this game is CONCEPTS IN PYTHON.
 
 The program will prompt the user to guess a letter. There is a list of
 alphabets from which user will select appropriate letter. According to the
